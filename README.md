@@ -12,6 +12,8 @@ https://www.safecrex.trade/api/v2/peatio/public/markets/sfcxbtc/order-book
 
 https://www.safecrex.trade/api/v2/peatio/public/markets/sfcxbtc/depth
 
+https://www.safecrex.trade/api/v2/peatio/public/markets/sfcxbtc/tickers
+
 # Safecrex User API v2
 API for Safecrex application.
 
