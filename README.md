@@ -15,7 +15,9 @@ https://www.safecrex.trade/api/v2/peatio/public/markets/sfcxbtc/depth
 https://www.safecrex.trade/api/v2/peatio/public/markets/sfcxbtc/tickers
 
 We Added CoinGecko API Endpoints
+
 https://www.safecrex.trade/api/v2/peatio/coingecko/pairs
+
 https://www.safecrex.trade/api/v2/peatio/coingecko/tickers
 
 # Safecrex User API v2
